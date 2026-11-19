@@ -1,0 +1,4 @@
+hidapi==0.14.0.post4
+pystray==0.19.5
+Pillow==10.4.0
+six==1.17.0

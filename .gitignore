@@ -1,0 +1,15 @@
+.deps/
+.wheel-cache/
+.pythonw-path
+.venv/
+.publish/
+__pycache__/
+*.pyc
+config.json
+config.before-update.json
+status.json
+*.status.json
+*.log
+*.log.*
+*.tmp
+*.zip
